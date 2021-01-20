@@ -1,13 +1,14 @@
-img{
-  width: 50%;
-}
-body{
-    background-color:#yellow;
 
+body{
+    background-color:yellow;
+    background-image: url(./image/shopping\ image.jpg);
     width: auto;
     max-width: 1590px;
     background-repeat: no-repeat;
 
+}
+img{
+  width:50%
 }
 
 .container{
@@ -16,7 +17,7 @@ body{
      background: rgb(138 52 164);
      color:white;
      padding: 20px;
-     margin-left: 500px;
+     margin-left: 550px;
      margin-top: 50px;
 
 

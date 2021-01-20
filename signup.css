@@ -1,6 +1,6 @@
 
 body{
-    background-color:#yellow;
+    background-color:yellow;
     background-image: url(./image/shopping\ image.jpg);
     width: auto;
     max-width: 1590px;
@@ -14,8 +14,8 @@ body{
      background: rgb(138 52 164);
      color:white;
      padding: 20px;
-     margin-left: 750px;
-     margin-top: 150px;
+     margin-left: 550px;
+     margin-top: 50px;
 
 
 }
